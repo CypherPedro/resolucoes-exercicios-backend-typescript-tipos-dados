@@ -50,4 +50,4 @@ const lista = [
     },
 ]
 
-console.log(filtrarUsuarios(lista, 'jo'));
+console.log(filtrarUsuarios(lista, 'gui'));
